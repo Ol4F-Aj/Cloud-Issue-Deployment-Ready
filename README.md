@@ -1,3 +1,4 @@
+ HEAD
 # Cloud Issue Tracker (Lab 5 complete project)
 
 A small full-stack app: a static HTML/CSS/JS frontend, an Express REST API and a Neon Postgres database.
@@ -59,3 +60,7 @@ npm start                 # http://localhost:8080
 - `backend/.env` is listed in `.gitignore`: check `git status` before every commit; it must never appear.
 - `DATABASE_URL` lives only in `backend/.env` and in the Vercel API project settings.
 - Nothing in `frontend/` is secret: every visitor can read it.
+=======
+# Cloud-Issue-Deployment-Ready
+This is the last updated version and the ready version for deployment 
+ 951e9ede3d86096e051e22a01613f0920eefe38d
